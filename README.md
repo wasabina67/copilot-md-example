@@ -42,3 +42,10 @@ GitHub Copilot MD example
 ### .github/skills/*/SKILL.md
 - GitHub Copilot 専用のエージェントスキル定義ファイル
 - 説明文ベースで自動マッチングされ、スクリプトやテンプレートを含められる
+
+## References
+
+- [Repository custom instructions](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
+- [Custom agents](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents)
+- [Agent skills](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-skills)
+- [Prompt files](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
