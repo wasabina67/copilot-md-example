@@ -22,12 +22,14 @@ GitHub Copilot MD example
 ## 2. Path-specific
 
 ### .github/instructions/*.instructions.md
-- wip
+- GitHub Copilot 専用のパス固有指示ファイル
+- frontmatter の `applyTo` でファイルパターンを指定し、特定のファイルにのみ適用可能
 
 ## 3. Custom-Agent
 
 ### .github/agents/*.agent.md
-- wip
+- GitHub Copilot 専用のカスタムエージェント定義ファイル
+- Copilot Chat で `@agent-name` として呼び出し可能
 
 ## 4. wip
 
