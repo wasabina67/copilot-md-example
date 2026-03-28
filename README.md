@@ -38,3 +38,7 @@ GitHub Copilot MD example
 - Copilot Chat で `/` コマンドとして呼び出し可能
 
 ## 5. Agent Skills
+
+### .github/skills/*/SKILL.md
+- GitHub Copilot 専用のエージェントスキル定義ファイル
+- 説明文ベースで自動マッチングされ、スクリプトやテンプレートを含められる
