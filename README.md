@@ -45,7 +45,16 @@ GitHub Copilot MD example
 
 ## References
 
+### GitHub Docs
+
 - [Repository custom instructions](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
+- [Customizing Copilot responses](https://docs.github.com/en/copilot/concepts/prompting/response-customization)
+- [Custom instructions support](https://docs.github.com/en/copilot/reference/custom-instructions-support)
 - [Custom agents](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents)
 - [Agent skills](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-skills)
 - [Prompt files](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
+
+### VS Code Docs
+
+- [Custom instructions](https://code.visualstudio.com/docs/copilot/customization/custom-instructions)
+- [Prompt files](https://code.visualstudio.com/docs/copilot/customization/prompt-files)
