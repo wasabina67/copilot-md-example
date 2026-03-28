@@ -5,7 +5,6 @@ GitHub Copilot MD example
 
 ### .github/copilot-instructions.md
 - GitHub Copilot 専用の常時適用指示ファイル
-- `.github/copilot-instructions/` ディレクトリに複数ファイルを置く形式でも適用可能
 
 ### AGENTS.md
 - 複数の AI Coding Agent が参照する汎用指示ファイル
@@ -29,7 +28,8 @@ GitHub Copilot MD example
 
 ### .github/agents/*.agent.md
 - GitHub Copilot 専用のカスタムエージェント定義ファイル
-- Copilot Chat で `@agent-name` として呼び出し可能
+- Copilot Chat のエージェントメニューから選択して呼び出し可能
+- CLI では `/agent` コマンドで呼び出し可能
 
 ## 4. Prompt Files
 
